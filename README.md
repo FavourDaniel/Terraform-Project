@@ -11,3 +11,7 @@ The instance public ip address: 54.145.38.252
 The url: http://ec2-54-145-38-252.compute-1.amazonaws.com/
 
 ![nginx deployed](https://user-images.githubusercontent.com/89241109/179250256-e8a0fb4a-f18f-4641-9ffe-807c59c0b3eb.png)
+
+This confirms nginx is running on the instance
+![terraform 4](https://user-images.githubusercontent.com/89241109/179251250-c4d183af-3ee0-429c-a6b2-2c4f9679a33c.png)
+
